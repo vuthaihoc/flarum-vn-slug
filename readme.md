@@ -20,3 +20,9 @@ It is only a simple plugin for Flarum support unicode when build slug.
 Download zip file of this project, after that copy to extensions folder of flarum. Go to
  admin and active it. Have fun!!!
  
+By `composer` add
+
+    "vuthaihoc/flarum-vn-slug": "dev-master"
+    
+    
+ 
