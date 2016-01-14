@@ -1,0 +1,26 @@
+{
+    "name": "vuthaihoc/flarum-vn-slug",
+    "description": "Support to build slug from Vietnamese title",
+    "version": "v0.1.0-beta4",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Vu Thai Hoc",
+        "email": "vuthaihoc.ttud@gmail.com"
+      }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.3"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Vietnamese Slug",
+            "icon": {
+                "name": "slug",
+                "backgroundColor": "#000",
+                "color": "#87d37c"
+            }
+        }
+    }
+}
