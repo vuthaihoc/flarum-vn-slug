@@ -32,6 +32,10 @@ after that run
 
     flarum migrate
 
+### Update from 0.1.0beta4
+
+    composer update vuthaihoc/flarum-vn-slug
+    flarum migrate
     
     
  
