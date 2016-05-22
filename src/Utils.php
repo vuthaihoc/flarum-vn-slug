@@ -316,7 +316,7 @@ class Utils {
 	 */
 	public static function genSlug($string)
 	{
-		return $string;
+//		return $string;
 		//$accepted = implode(self::$MY_RULE);
 		//$replace_char = "/([^a-zA-Z0-9" . $accepted . "]|-)+/u";
 		//echo $replace_char;

@@ -15,6 +15,10 @@ It is only a simple plugin for Flarum support unicode when build slug.
 
 * Using `what?` version of http://jsperf.com/diacritics/12 when building slug. So it not only support Vietnamese language :)
 
+#### 05/22/2016
+
+* support flarum beta 5
+
 ## Install
 
 Download zip file of this project, after that copy to extensions folder of flarum. Go to
@@ -23,6 +27,11 @@ Download zip file of this project, after that copy to extensions folder of flaru
 By `composer` add
 
     "vuthaihoc/flarum-vn-slug": "dev-master"
+    
+after that run
+
+    flarum migrate
+
     
     
  

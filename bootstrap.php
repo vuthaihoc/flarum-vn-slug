@@ -2,6 +2,8 @@
 
 use Flarum\Event\ConfigureClientView;
 use Flarum\Event\DiscussionWillBeSaved;
+use Flarum\Event\ExtensionWasEnabled;
+use Flarum\Extension\Extension;
 use Illuminate\Contracts\Events\Dispatcher;
 
 return function(Dispatcher $events) {
