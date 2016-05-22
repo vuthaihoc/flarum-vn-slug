@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "VuThaiHoc\\FlarumVnSlug": "src"
+        "VuThaiHoc\\FlarumVnSlug\\": "src"
       }
     },
     "extra": {
